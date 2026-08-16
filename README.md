@@ -24,4 +24,4 @@ Acest repository conține implementări educaționale ale unor algoritmi clasici
 ---
 
 Copyright (c) 2026 
-Daria-Gabriela Iliescu, Diana Lungu, Anișoara Dedu, Andreea Dumitrescu
+Daria-Gabriela Iliescu, Diana-Ionela Lungu, Anișoara-Nicoleta Dedu, Andreea-Mihaela Dumitrescu
