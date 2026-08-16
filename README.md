@@ -1,11 +1,11 @@
 # Graph-Theory
 
-Un proiect Python dedicat implementării algoritmilor fundamentali din Teoria Grafurilor, cu aplicații practice, vizuale și analitice.  
-Acest repository conține implementări educaționale ale unor algoritmi clasici, modele ML integrate și documentație conceptuală.
+A Python project dedicated to implementing fundamental Graph Theory algorithms, with practical, visual, and analytical applications.  
+This repository contains educational implementations of classical algorithms, integrated ML models, and conceptual documentation.
 
 ---
 
-## 👥 Autori
+## 👥 Authors
 
 - **Daria-Gabriela Iliescu**  
 - **Diana-Ionela Lungu**  
@@ -14,13 +14,12 @@ Acest repository conține implementări educaționale ale unor algoritmi clasici
 
 ---
 
-## 📌 Algoritmi implementați
+## 📌 Implemented Algorithms
 
-- **Ford–Fulkerson** – determinarea fluxului maxim  
-- **Algoritmul lui Ford** – drumuri minime  
-- **Algoritmul Maghiar (Hungarian Algorithm)** – assignment problem  
-- **Integrare ML** – modele de predicție aplicate pe grafuri  
-
+- **Ford–Fulkerson** – maximum flow determination  
+- **Ford's Algorithm** – shortest paths  
+- **Hungarian Algorithm** – assignment problem  
+- **ML Integration** – prediction models applied to graphs
 ---
 
 Copyright (c) 2026 
