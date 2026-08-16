@@ -8,9 +8,9 @@ Acest repository conține implementări educaționale ale unor algoritmi clasici
 ## 👥 Autori
 
 - **Daria-Gabriela Iliescu**  
-- **Diana Lungu**  
-- **Anișoara Dedu**  
-- **Andreea Dumitrescu**
+- **Diana-Ionela Lungu**  
+- **Anișoara-Nicoleta Dedu**  
+- **Andreea-Mihaela Dumitrescu**
 
 ---
 
